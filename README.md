@@ -18,8 +18,6 @@
 
   - [NDL RF in-home fork](https://github.com/ndlrf-rnd/dhSegment)
 
-* [Page Stream Segmentation with Convolutional Neural Nets Combining Textual and Visual Features](https://arxiv.org/abs/1710.03006)
-
 * Bavaria state library
 
   * [Вольф Томас, Центр оцифровки Баварской государственной библиотеке. 2014. Оцифровка в Баварской государственной библиотеке.](https://www.digitale-sammlungen.de/content/dokumente/2014-02-19_MDZ_Wolf.pdf) (rus)
@@ -51,6 +49,7 @@
 * [![DOI](https://zenodo.org/badge/DOI/10.5445/IR/1000089239.svg) Automatic Layout Analysis and Visual Exploration of Multidimensional Datasets with Applications in the Digital Humanities.](https://doi.org/10.5445/IR/1000089239)
 
 * [Page Stream Segmentation with Convolutional Neural Nets Combining Textual and Visual Features](https://arxiv.org/abs/1710.03006)
+
 [![DOI](https://zenodo.org/badge/DOI/10.1007/s10579-019-09476-2.svg) Wiedemann, Gregor & Heyer, Gerhard. (2019). Multi-modal page stream segmentation with convolutional neural networks. Language Resources and Evaluation.](https://doi.org/10.1007/s10579-019-09476-2)
 
 * [Graph-based tables segmentation](https://arxiv.org/pdf/1905.13391.pdf)
